@@ -1,0 +1,88 @@
+body {
+    background-color: #E3FDF0;
+    font-family: 'Poppins', sans-serif;
+}
+
+#logo {
+    width: 130px;
+    height: 40px;
+}
+
+#header {
+    background-color: #00834C;
+    margin-left: -10px;
+    margin-right: -7px;
+    margin-top: -10px;
+    padding-top: 5px;
+    margin-bottom: 20px;
+}
+
+.top {
+    padding-left: 10px;
+    padding-top: 5px;
+}
+#hcontent {
+    float: right;
+    margin-top: -40px;
+    color: white; 
+    text-decoration: none;
+} 
+
+.one {
+    margin-right: 1110px;
+    
+}
+
+.two {
+    margin-right: 1020px;
+}
+
+.three {
+    margin-right: 955px;
+}
+
+.four {
+    margin-right: 835px;
+}
+
+.five {
+    margin-right: 10px;
+}
+
+#left{
+    float: left;
+    width: 550px;
+    height: 550px;
+
+    
+}
+
+#icon{
+    width: auto;
+    height: 250px;
+    /* padding-right: 200px; */
+    padding-left: 250px;
+    padding-top: 150px;
+    
+}
+
+#right{
+    float: right;
+    background-color: #FFFFFF;
+    width: 550px;
+    height: 550px;
+    margin-top: -15px;
+}
+
+#center{
+    width: auto;
+    height: 50px;
+    padding-left: 170px;
+    padding-right: 170px;
+    padding-top: 100px;
+}
+
+#logintext{
+    text-align: center;
+    font-weight: bold;
+}
